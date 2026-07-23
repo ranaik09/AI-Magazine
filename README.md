@@ -53,7 +53,7 @@ ai-magazine/
 
 ​To explore a specific project:
 
-1. ​Clone the repository: git clone [https://github.com/your-username/ai-magazine.git](https://github.com/your-username/ai-magazine.git)
+1. ​Clone the repository: git clone [https://github.com/ranaik09/ai-magazine.git](https://github.com/ranaik09/ai-magazine.git)
 2. ​Navigate to the project folder: cd ai-magazine/agents/research-agent
 3. ​Install dependencies: pip install -r requirements.txt
 4. ​Copy the environment template and add your keys: cp .env.example .env
