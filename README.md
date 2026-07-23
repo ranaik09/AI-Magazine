@@ -31,6 +31,7 @@ Code accompanying our deep-dive research papers and platform teardowns.
 # ​📂 Repository Structure
 ​The repository is organized by project and topic to help you easily navigate the codebase:
 
+```
 ai-magazine/
 ├── agents/                 # Standalone autonomous agent implementations
 │   ├── research-agent/     # (Example) Multi-agent web research tool
@@ -40,6 +41,7 @@ ai-magazine/
 ├── rag-systems/            # Vector databases and retrieval architectures
 ├── llmops/                 # Evaluation scripts, deployment templates, and monitoring
 └── README.md
+```
 
 # 🚀 Getting Started
 ​Each project folder contains its own self-contained environment and README.md with specific run instructions.
