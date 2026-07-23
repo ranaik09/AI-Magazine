@@ -10,17 +10,23 @@
 ​The AI landscape is moving beyond simple chat interfaces. The future belongs to agentic workflows, autonomous systems, and scalable LLM infrastructure. This repository bridges the gap between theoretical AI research and practical software engineering. Here, you will find open-source codebases, system architectures, and hands-on experiments focused on moving AI from Jupyter Notebooks into the real world.
 
 # ​📦 What You'll Find Inside
+
 ​This repository is continuously updated with research-backed projects covering:
 
-# ​🤖 Autonomous Agents: Multi-agent systems, ReAct prompting patterns, and custom tool-calling implementations.
+# ​🤖 Autonomous Agents: 
+Multi-agent systems, ReAct prompting patterns, and custom tool-calling implementations.
 
-# ​⚙️ AI Workflows & Automations: End-to-end pipelines automating complex, real-world tasks using LLMs.
+# ​⚙️ AI Workflows & Automations: 
+End-to-end pipelines automating complex, real-world tasks using LLMs.
 
-# ​🧠 Advanced RAG (Retrieval-Augmented Generation): Context engineering, vector database optimization, and hybrid search architectures.
+# ​🧠 Advanced RAG (Retrieval-Augmented Generation): 
+Context engineering, vector database optimization, and hybrid search architectures.
 
-# ​🛠️ LLMOps & Infrastructure: Best practices for evaluating, deploying, and monitoring machine learning models in production environments.
+# ​🛠️ LLMOps & Infrastructure: 
+Best practices for evaluating, deploying, and monitoring machine learning models in production environments.
 
-# ​🧪 Research Implementations: Code accompanying our deep-dive research papers and platform teardowns.
+# ​🧪 Research Implementations: 
+Code accompanying our deep-dive research papers and platform teardowns.
 
 # ​📂 Repository Structure
 ​The repository is organized by project and topic to help you easily navigate the codebase:
